@@ -11,7 +11,7 @@ using UnityEngine;
 using System.Collections;
 using System.Collections.Generic;                                    //泛型集合命名空间
 
-namespace kernel
+namespace Kernal
 {
     public class AudioManager : MonoBehaviour
     {
